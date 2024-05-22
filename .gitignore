@@ -1,3 +1,7 @@
+# Arduino
+build
+.skip.esp32c3
+
 # Prerequisites
 *.d
 
